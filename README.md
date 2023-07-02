@@ -7,8 +7,8 @@ Open, honest discussions
 Logical, less emotional, non-judgmental responses
 
 Keys to positive mental health:
--Nutrition
--Sleep
--Relationships
--Mindfulness
--Physical Activity
+  Nutrition
+  Sleep
+  Relationships
+  Mindfulness
+  Physical Activity
