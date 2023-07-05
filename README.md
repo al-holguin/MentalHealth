@@ -14,5 +14,5 @@ Keys to positive mental health:
 - Physical Activity
 
 Notes:
-Video link to overview
+Video link to depression overview
 Video link to CBT-I
